@@ -53,12 +53,12 @@ HealthTracker(仮)は、以下の主要な健康指標に焦点を当て、様�
 #### 相関行列のヒートマップ
 相関行列のヒートマップは、各変数間の相関関係を視覚的に示しています。
 
-![相関行列のヒートマップ](sandbox:/mnt/data/heatmap_reduced.png)
+![相関行列のヒートマップ](images/heatmap_reduced.png)
 
 #### 回帰係数のプロット
 回帰係数のプロットは、各独立変数が従属変数（ウキウキ度）に与える影響を示しています。バーの長さは係数の大きさを示し、エラーバーはその不確実性を示します。
 
-![回帰係数のプロット](sandbox:/mnt/data/regression_coefficients_reduced.png)
+![回帰係数のプロット](images/regression_coefficients_reduced.png)
 
 #### 回帰分析の結果
 ```plaintext
