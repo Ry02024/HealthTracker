@@ -22,11 +22,7 @@ HealthTracker(仮)は、睡眠時間、起床時間、食事時間、ストレ�
 
 ## Webアプリデモ
 
-<div align="center">
-  <a href="https://youtube.com/shorts/BfnZfj9AQzs?si=N0a8ONQPNq4hAFdH">
-    <img src="https://img.youtube.com/vi/BfnZfj9AQzs/0.jpg" alt="Video Title" style="width: 80%; height: auto;">
-  </a>
-</div>
+![Video](images/screen-20240617-173703.mp4)
 
 ## データ分析と予測
 HealthTracker(仮)は、以下の主要な健康指標に焦点を当て、様々な分析手法を使用します。
