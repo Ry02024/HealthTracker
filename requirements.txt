@@ -1,4 +1,5 @@
 streamlit
 statsmodels
+seaborn
 japanize-matplotlib
 google-generativeai
