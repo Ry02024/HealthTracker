@@ -1,1 +1,3 @@
+streamlit
 japanize-matplotlib
+google-generativeai
