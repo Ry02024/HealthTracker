@@ -1,3 +1,4 @@
 streamlit
+statsmodels
 japanize-matplotlib
 google-generativeai
