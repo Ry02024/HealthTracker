@@ -6,6 +6,7 @@ HealthTracker(仮)は、日々の活動報告データを用いて健康状態�
 - [イントロダクション](#イントロダクション)
 - [特徴](#特徴)
 - [Webアプリデモ](#Webアプリデモ)
+- [アプリを体験](#アプリを体験)
 - [データ分析と予測](#データ分析と予測)
 - [貢献](#貢献)
 - [ライセンス](#ライセンス)
@@ -23,6 +24,9 @@ HealthTracker(仮)は、睡眠時間、起床時間、食事時間、ストレ�
 ## Webアプリデモ
 
 [YouTubeショート動画](https://www.youtube.com/shorts/BfnZfj9AQzs?si=51YhB46zbte-PcgJ)
+
+## アプリを体験
+[HealthTracker on StreamlitCloud](https://healthtracker-vsbqjhs8wuuk5ddd9mhehd.streamlit.app/)
 
 ## データ分析と予測
 HealthTracker(仮)は、以下の主要な健康指標に焦点を当て、様々な分析手法を使用します。
