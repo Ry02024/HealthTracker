@@ -21,8 +21,8 @@ HealthTracker(仮)は、睡眠時間、起床時間、食事時間、ストレ�
 - **個別化された提案**：モデルの予測結果とテキスト分析に基づいて、個別化されたセルフケア提案を生成します。
 
 ## Webアプリデモ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfnZfj9AQzs" frameborder="0" allowfullscreen></iframe>
 
-![./images/screen-20240617-173703.mp4](https://youtube.com/shorts/BfnZfj9AQzs?si=zXWpS-enchtttqd8)
 ## データ分析と予測
 HealthTracker(仮)は、以下の主要な健康指標に焦点を当て、様々な分析手法を使用します。
 
